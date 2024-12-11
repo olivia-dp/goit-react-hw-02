@@ -1,0 +1,9 @@
+.listBtn {
+    display: flex;
+    flex-direction: row;
+    gap: 15px;
+}
+
+.btn {
+    border: 1px solid #000;
+}
